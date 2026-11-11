@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Saurabh Patil 👋
 
-<!--
-**saurabhpatil-dev001/saurabhpatil-dev001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Node.js | TypeScript
 
-Here are some ideas to get you started:
+I'm a Backend Developer with around 3 years of experience building backend applications, REST APIs, and database-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** PostgreSQL, MySQL
+- **ORM:** Prisma, MikroORM
+- **DevOps & Deployment:** Docker, Docker Compose, Jenkins, NGINX, VPS
+- **Cloud:** Azure Functions, Azure Blob Storage
+- **Tools:** Git, GitHub, Postman
+
+### 💻 What I Work On
+
+- Building RESTful APIs and backend services
+- Authentication and authorization
+- Database design and ORM-based data access
+- Background job processing
+- Docker-based application deployment
+- Backend debugging and production support
+
+### 🎯 Current Focus
+
+- Backend architecture and system design
+- Database performance and optimization
+- Scalable backend applications
+- Cloud and DevOps fundamentals
+
+### 📌 Projects
+
+Personal backend demonstration projects are currently in development. More repositories coming soon!
+
+---
+
+*Building reliable backend systems, one project at a time.*
